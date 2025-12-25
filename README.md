@@ -31,8 +31,8 @@ preprocessing pipeline as the training data.
 
 ## Files
 - `dataset/` → Custom phone images
-- `model/CNN.pth` → Saved trained model
-- `CNN.ipynb` → Google Colab Notebook
+- `model/210141.pth` → Saved trained model
+- `210141.ipynb` → Google Colab Notebook
 
 ## Links
 - GitHub Repository: <(https://github.com/sourav277/cnn-phone-classification)>
